@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\bin\Debug\net8.0\project-11solution11.exe
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\bin\Debug\net8.0\project-11solution11.deps.json
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\bin\Debug\net8.0\project-11solution11.runtimeconfig.json
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\bin\Debug\net8.0\project-11solution11.dll
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\bin\Debug\net8.0\project-11solution11.pdb
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\project-11solution11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\project-11solution11.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\project-11solution11.AssemblyInfo.cs
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\project-11solution11.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\project-11solution11.dll
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\refint\project-11solution11.dll
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\project-11solution11.pdb
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\project-11solution11.genruntimeconfig.cache
+C:\Users\User\Downloads\suwaiq-solutions\solution11\project-11solution11\obj\Debug\net8.0\ref\project-11solution11.dll
